@@ -1,0 +1,13 @@
+To run the project we need the 
+Xampp server or Wammp server
+after install server go to the C Drive on that find xampp server
+open the folder search htdocs folder
+open the folder and paste the prject folder i.e Facultm
+after that search the xampp server 
+start the Apache and MySQL Server click on Admin 
+select new database give name dept enter
+after that import database file from folder i.e .sql file
+And finally run the project i.e open any browser type localhost:/Facultym 
+then the project will be run automatically
+Made By Shinde Sanket : 9011322927 &
+	Shinde Varshali. 
